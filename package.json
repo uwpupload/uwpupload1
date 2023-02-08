@@ -11,8 +11,6 @@
             "type": "git",
            "url": "git+https://github.com/uwpupload/uwpupload1.git"
        },
-       "author": "",
+       "author": "AD",
         "license": "ISC",
-        "bugs": {
-       },
     }
