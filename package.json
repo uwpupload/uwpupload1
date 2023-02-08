@@ -3,8 +3,8 @@
         "version": "1.0.0",
         "description": "",
         "scripts": {
-          "build": "npmignore",
-          "test": "npmignore",
+          "build": "exit1",
+          "test": "",
            "start": "node index.js"
        },
         "repository": {
@@ -13,4 +13,4 @@
        },
        "author": "AD",
         "license": "ISC",
-    };
+    }
