@@ -1,16 +1,15 @@
 {
-      "name": "uwpupload1",
-        "version": "1.0.0",
-        "description": "",
-        "scripts": {
-          "build": ".npmignore",
-          "test": "",
-           "start": "node index.js"
-       },
-        "repository": {
-            "type": "git",
-           "url": "git+https://github.com/uwpupload/uwpupload1.git"
-       },
-       "author": "AD",
-        "license": "ISC"
-    }
+  "name": "uwp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+   "url": "git+https://github.com/uwpupload/uwpupload1.git"
+},
+  "author": "",
+  "license": "ISC"
+}
